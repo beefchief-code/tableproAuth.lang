@@ -8,11 +8,11 @@ The **solution** branch contains documented solution code. The commit history of
 
 <figure>
 
-![Visualized schema. The textual representation in DBML is linked below.](/docs/schema.svg)
+![Visualized schema. The textual representation in DBML is linked below.](./docs/schema.svg)
 
 <figcaption>
 
-[textual representation of schema in DBML](/docs/schema.dbml)
+[textual representation of schema in DBML](./docs/schema.dbml)
 
 </figcaption>
 </figure>
